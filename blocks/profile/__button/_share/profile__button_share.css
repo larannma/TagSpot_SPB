@@ -1,0 +1,6 @@
+.profile__button_share{
+  background: #F5F5F5;
+  border: none;
+  color: var(--default-system-blue-light, #007AFF);
+  text-align: center;
+}

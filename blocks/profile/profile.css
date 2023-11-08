@@ -1,3 +1,12 @@
 .profile {
-  font-family: 'PTRootUIWebBold';
+  display: flex;
+  width: 300px;
+  padding: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  border-radius: 20px;
+  background: var(--theme-colors-main-plates-00, #FFF);
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.07);
 }

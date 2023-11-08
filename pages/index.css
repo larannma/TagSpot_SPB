@@ -1,4 +1,15 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/root/root.css);
+
 @import url(../blocks/profile/profile.css);
+@import url(../blocks/profile/__image/profile__image.css);
+@import url(../blocks/profile/__userInfo/profile__userInfo.css);
+@import url(../blocks/profile/__name/profile__name.css);
+@import url(../blocks/profile/__details/profile__details.css);
+@import url(../blocks/profile/__avalibleBanks/profile__avalibleBanks.css);
+@import url(../blocks/profile/__bankLogo/profile__bankLogo.css);
+@import url(../blocks/profile/__contactInfo/profile__contactInfo.css);
+@import url(../blocks/profile/__button/profile__button.css);
+@import url(../blocks/profile/__button/_text/profile__button_text.css);
+@import url(../blocks/profile/__button/_share/profile__button_share.css);

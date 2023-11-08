@@ -1,0 +1,16 @@
+.profile__details{
+  font-family: 'PTRootUIWebLight';
+  color: var(--black-12, #1F1F1F);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 21px */
+  letter-spacing: -0.14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin: 9px 0;
+}

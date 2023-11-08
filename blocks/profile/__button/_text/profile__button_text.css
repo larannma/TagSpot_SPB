@@ -1,0 +1,5 @@
+.profile__button_text{
+  background: var(--default-system-blue-dark, #0A84FF);
+  
+  color: var(--label-color-dark-primary, var(--theme-colors-main-plates-00, #FFF));
+}

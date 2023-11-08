@@ -1,0 +1,16 @@
+.profile__button{
+  display: flex;
+  padding: 14px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  font-family: 'PTRootUIWebMedium';
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22px; /* 129.412% */
+  letter-spacing: -0.408px;
+  border-radius: 14px;
+  cursor: pointer;
+}
