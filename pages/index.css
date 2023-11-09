@@ -2,9 +2,11 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/root/root.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__link/footer__link.css);
+
 @import url(../blocks/profile/profile.css);
 @import url(../blocks/profile/__image/profile__image.css);
-@import url(../blocks/profile/__userInfo/profile__userInfo.css);
 @import url(../blocks/profile/__name/profile__name.css);
 @import url(../blocks/profile/__details/profile__details.css);
 @import url(../blocks/profile/__avalibleBanks/profile__avalibleBanks.css);

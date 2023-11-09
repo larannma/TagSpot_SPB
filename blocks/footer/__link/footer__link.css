@@ -1,0 +1,11 @@
+.footer__link{
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'PTRootUIWebRegular';
+  font-size: 14px;
+  color: var(--black-12, #1F1F1F);
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 21px */
+  letter-spacing: -0.14px;
+}

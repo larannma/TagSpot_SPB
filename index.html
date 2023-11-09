@@ -7,11 +7,16 @@
   <link rel="stylesheet" href="./pages/index.css">
 </head>
 <body class="root">
+  <footer class="footer">
+    <img src="./images/sbp.svg" alt="sbp">
+    <img src="./images/tagspot.svg" alt="tagspot">
+    <a href="#" class="footer__link">spb.nspk.ru</a>
+  </footer>
   <div class="profile">
     <div class="profile__imageContainer">
       <img class="profile__image" alt="user" src="./images/user.png">
     </div>
-    <div class="profile__userInfo">
+    <div>
       <p class="profile__name">Иванов Иван Иванович</p>
       <div class="profile__details">
         <p>Tayota Camry</p>
@@ -31,5 +36,26 @@
       <button class="profile__button profile__button_share">Поделиться</button>
     </div>
   </div>
+  <main class="main">
+    <div>
+      <h3>Все банки</h3>
+      <p>Выберите банковское приложение и подтвердите оплату</p>
+    </div>
+    <div class="main__search">
+      <p>Поиск</p>
+      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8311 2.75C6.99856 2.75 3.08105 6.66751 3.08105 11.5C3.08105 16.3325 6.99856 20.25 11.8311 20.25C16.6635 20.25 20.5811 16.3325 20.5811 11.5C20.5811 6.66751 16.6635 2.75 11.8311 2.75ZM1.58105 11.5C1.58105 5.83908 6.17014 1.25 11.8311 1.25C17.492 1.25 22.0811 5.83908 22.0811 11.5C22.0811 14.0605 21.1422 16.4017 19.5899 18.1982L22.8614 21.4697C23.1543 21.7626 23.1543 22.2374 22.8614 22.5303C22.5685 22.8232 22.0936 22.8232 21.8007 22.5303L18.5293 19.2589C16.7328 20.8111 14.3916 21.75 11.8311 21.75C6.17014 21.75 1.58105 17.1609 1.58105 11.5Z" fill="#808080" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <ul>
+      <li>
+        <img src="./images/logo/СБЕР.svg" alt="SBER">
+        <p>Сбербанк</p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="8" height="13" viewBox="0 0 8 13" fill="none">
+        <path d="M7.33109 6.49633C7.33109 6.21578 7.22845 5.98313 7.00948 5.76416L1.74058 0.611586C1.56267 0.433675 1.35054 0.351562 1.09736 0.351562C0.584155 0.351562 0.166748 0.755284 0.166748 1.26849C0.166748 1.52167 0.276232 1.75432 0.460985 1.93908L5.14141 6.48949L0.460985 11.0536C0.276232 11.2383 0.166748 11.4642 0.166748 11.7242C0.166748 12.2374 0.584155 12.6479 1.09736 12.6479C1.35054 12.6479 1.56267 12.559 1.74058 12.3811L7.00948 7.22851C7.23529 7.00954 7.33109 6.77689 7.33109 6.49633Z" fill="#3C3C43" fill-opacity="0.3"/>
+      </svg>
+    </li>
+    </ul>
+  </main>
 </body>
 </html>
