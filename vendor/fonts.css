@@ -1,4 +1,35 @@
-@import url(./PT-Root-UI/PT-Root-UI_Bold.css);
-@import url(./PT-Root-UI/PT-Root-UI_Light.css);
-@import url(./PT-Root-UI/PT-Root-UI_Medium.css);
-@import url(./PT-Root-UI/PT-Root-UI_Regular.css);
+@font-face {
+	font-family: 'PTRootUIWebBold';
+	src: 
+		url('./PT-Root-UI/pt-root-ui_bold.woff2') format('woff2'),
+		url('./PT-Root-UI/pt-root-ui_bold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PTRootUIWebLight';
+	src: 
+		url('./PT-Root-UI/pt-root-ui_light.woff2') format('woff2'),
+		url('./PT-Root-UI/pt-root-ui_light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PTRootUIWebMedium';
+	src: 
+		url('./PT-Root-UI/pt-root-ui_medium.woff2') format('woff2'),
+		url('./PT-Root-UI/pt-root-ui_medium.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PTRootUIWebRegular';
+	src: 
+		url('./PT-Root-UI/pt-root-ui_regular.woff2') format('woff2'),
+		url('./PT-Root-UI/pt-root-ui_regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
