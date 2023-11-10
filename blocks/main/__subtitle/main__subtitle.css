@@ -1,0 +1,10 @@
+.main__subtitle {
+  align-self: stretch;
+  color: var(--black-30, #4B4B4B);
+  font-family: 'PTRootUIWebRegular';
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 135%; /* 22.95px */
+  letter-spacing: -0.17px;
+}

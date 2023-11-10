@@ -1,0 +1,6 @@
+.main__bankTitle {
+  display: flex;
+  padding-right: 16px;
+  align-items: center;
+  border-bottom: 1px solid rgba(60, 60, 67, 0.30);
+}

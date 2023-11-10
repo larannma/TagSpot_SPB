@@ -1,0 +1,10 @@
+.main__title {
+  align-self: stretch;
+  color: var(--black-10, #1A1A1A);
+  font-family: 'PTRootUIWebMedium';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 107.5%; /* 23.65px */
+  letter-spacing: -0.22px;
+}

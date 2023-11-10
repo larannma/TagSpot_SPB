@@ -1,0 +1,8 @@
+.main__banks {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* border: solid red  */
+  width: 360px;
+}
